@@ -5,7 +5,7 @@ foram ignoradas nesse teste.
 
  OBS: O modal é reutilizado para edit, através da edição do nome dos campos via JS, a função de salvamento é a mesma (salvar).
 
- Disponibilizado no host gratuito [testefaturar.infinityfreeapp.com](www.testefaturar.infinityfreeapp.com) **(possivelmente fora do ar devido à propagação de DNS de hosts gratuitos.)**
+ Disponibilizado no host gratuito [testefaturar.infinityfreeapp.com](http://www.testefaturar.infinityfreeapp.com) **(possivelmente fora do ar devido à propagação de DNS de hosts gratuitos.)**
 
 ## Tecnologias usadas
 
@@ -22,7 +22,7 @@ foram ignoradas nesse teste.
 - Adicionar, editar e excluir clientes
 - Formulários de cadastro e edição via modais Bootstrap
 - Validação e máscaras de CPF/CNPJ, telefone, e-mail
-- Disponibilizado em [testefaturar.infinityfreeapp.com](www.testefaturar.infinityfreeapp.com) **(possivelmente fora do ar devido à propagação de DNS de hosts gratuitos.)**
+- Disponibilizado em [testefaturar.infinityfreeapp.com](http://www.testefaturar.infinityfreeapp.com) **(possivelmente fora do ar devido à propagação de DNS de hosts gratuitos.)**
 
 ---
 
