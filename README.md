@@ -30,7 +30,7 @@ foram ignoradas nesse teste.
 
 1. **Instale o [XAMPP](https://www.apachefriends.org/pt_br/index.html)** para seu sistema operacional.
 
-2. **Copie o projeto** para uma pasta dentro `htdocs` do XAMPP.  
+2. **Baixe e extraia o projeto do github** para uma pasta dentro `htdocs` do XAMPP.  
    Exemplo: `C:\xampp\htdocs\faturar`
 
 3. **Inicie o Apache e o MySQL** no painel de controle do XAMPP.
