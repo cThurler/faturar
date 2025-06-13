@@ -33,6 +33,8 @@ foram ignoradas nesse teste.
 2. **Baixe e extraia o projeto do github** para uma pasta dentro `htdocs` do XAMPP.  
    Exemplo: `C:\xampp\htdocs\faturar`
 
+2.1 Como baixar? Clique no botão verde "Code" e clique em "Download ZIP".
+
 3. **Inicie o Apache e o MySQL** no painel de controle do XAMPP.
 
 4. **Criar banco de dados e tabela:**
