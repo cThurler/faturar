@@ -1,6 +1,5 @@
-# Sistema de Gerenciamento de Clientes - Full Stack Jr
+# Sistema de Clientes
 
- Projeto para teste técnico de vaga Desenvolvedor(a) Full Stack Jr.
  Por razões de simplicidade, as leis de criptografia de dados sensiveis no banco de dados
 foram ignoradas nesse teste.
 
