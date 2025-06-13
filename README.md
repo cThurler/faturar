@@ -94,7 +94,6 @@ OBS. **Caso necessário, configurar conexão com banco de dados**
 /controllers Controladores MVC
 /models Modelos para acesso ao banco
 /views Páginas e templates HTML (com Bootstrap)
-index.php Ponto de entrada principal
 ```
 
 ---
