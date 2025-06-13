@@ -27,6 +27,7 @@ foram ignoradas nesse teste.
 ---
 
 ## Como rodar localmente com XAMPP
+-PHP necessário estar instalado para rodar o sistema.
 
 1. **Instale o [XAMPP](https://www.apachefriends.org/pt_br/index.html)** para seu sistema operacional.
 
